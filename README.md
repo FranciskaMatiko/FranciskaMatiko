@@ -1,67 +1,122 @@
-<h1 align="center">Hi 👋, I'm Franciska Matiko</h1>
+<h1 align="center">Hi, I'm Franciska Matiko 👋</h1>
 
-<h3 align="center">💖 A Girl Who Codes | Frontend Developer | Future Full-Stack Engineer 💖</h3>
+<h3 align="center">
+  Full-Stack Developer | Mobile App Developer | Software Tester | Data & Big Data Analytics Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+beautiful+interfaces;React+%7C+Laravel+%7C+Tailwind+CSS;Learning+and+building+everyday+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=800&lines=Building+modern+and+user-friendly+applications;React.js+%7C+Spring+Boot+%7C+Laravel+%7C+React+Native;Software+Testing+%7C+Data+Science+%7C+Big+Data+Analytics;Passionate+about+clean+code+and+beautiful+digital+experiences" />
 </p>
 
 ---
 
 ## 🌸 About Me
 
-💻 I am passionate about building beautiful and user-friendly web applications.  
-🎨 I love clean UI/UX design with modern colors and smooth experiences.  
-🚀 I am currently improving my skills in React.js, Laravel, Tailwind CSS, and full-stack development.  
-🌍 I enjoy creating systems that solve real problems in my community.  
+I am a passionate developer who enjoys building complete digital solutions from frontend interfaces to backend systems, mobile applications, testing, and data-driven analysis.
+
+- 💻 Full-stack development using **React.js, Spring Boot, Laravel, and APIs**
+- 🎨 Frontend development using **React.js, Tailwind CSS, and modern UI/UX principles**
+- 📱 Mobile app development using **React Native**
+- 🧪 Software testing and quality assurance
+- 📊 Data science and big data analytics
+- 🚀 Interested in building systems that solve real-world problems
 
 ---
 
-## 💕 My Tech Stack
+## 💼 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### Frontend Development
+- React.js
+- Tailwind CSS
+- JavaScript / TypeScript
+- Responsive UI Design
+- Component-based architecture
+
+</td>
+<td width="50%">
+
+### Backend Development
+- Spring Boot
+- Laravel
+- REST APIs
+- MySQL / PostgreSQL
+- Authentication and authorization
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Mobile Development
+- React Native
+- Mobile UI Design
+- API Integration
+- Cross-platform applications
+
+</td>
+<td width="50%">
+
+### Data & Testing
+- Software Testing
+- Data Science
+- Big Data Analytics
+- Python
+- Data visualization
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,laravel,php,nodejs,mysql,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,java,spring,laravel,php,nodejs,mysql,postgres,python,git,github,vscode" />
 </p>
 
 ---
 
-## 🌷 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=francikamatiko&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FranciskaMatiko&show_icons=true&theme=radical&hide_border=true&title_color=F472B6&icon_color=F472B6" />
 </p>
 
 ---
 
-## 🔥 My GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=francikamatiko&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
+  <img src="https://streak-stats.demolab.com?user=FranciskaMatiko&theme=radical&hide_border=true&ring=F472B6&fire=F472B6&currStreakLabel=F472B6" />
 </p>
 
 ---
 
-## 🌸 Most Used Languages
+## 🌷 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francikamatiko&layout=compact&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciskaMatiko&layout=compact&theme=radical&hide_border=true&title_color=F472B6" />
 </p>
 
 ---
 
-## 💗 My Coding Activity
+## ✨ My Developer Identity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FranciskaMatiko&theme=react-dark&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=true" />
-</p>
+I love creating applications that are:
 
----
+- Clean and professional
+- Easy to use
+- Beautifully designed
+- Secure and reliable
+- Useful for real-world problems
 
-## 🎀 Cute Developer Quote
-
-<p align="center">
-  <i>"Code like a girl: beautiful, powerful, creative, and unstoppable." 💖</i>
-</p>
+My favorite design style combines **soft pink colors, clean layouts, rounded cards, modern typography, and professional user experience**.
 
 ---
 
@@ -69,16 +124,16 @@
 
 <p align="center">
   <a href="mailto:francikamatiko@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://github.com/francikamatiko">
-    <img src="https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/FranciskaMatiko">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer" />
+  <i>“Building technology with creativity, purpose, and elegance.”</i> 🌸
 </p>
