@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Hey,%20I'm%20Franciska%20%E2%9C%A8&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%E2%80%A2%20Backend%20%E2%80%A2%20Mobile%20%E2%80%A2%20Data%20Science&descAlignY=60&descSize=18" />
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=3000&pause=800&color=E91E8C&center=true&vCenter=true&width=600&lines=Building+beautiful+things+%F0%9F%8C%B8;From+pixels+to+pipelines+%F0%9F%9A%80;Data+%2B+Design+%2B+Determination+%F0%9F%92%AA;Code+is+my+superpower+%E2%9C%A8" alt="Typing SVG" />
 </a>
@@ -58,22 +56,20 @@ class GirlWhoCode:
 ### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-AD1457?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-E91E8C?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-C2185B?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-F06292?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F48FB1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-E91E8C?style=for-the-badge&logo=mongodb&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F06292?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-C2185B?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F48FB1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E91E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-AD1457?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-E91E8C?style=for-the-badge&logo=react&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-F06292?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-C2185B?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 📊 Data Science
 ![Python](https://img.shields.io/badge/Python-E91E8C?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-F06292?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-AD1457?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-C2185B?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache_Hive-F06292?style=for-the-badge&logo=apachehive&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-AD1457?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-C2185B?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F48FB1?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🛠 Tools
@@ -90,15 +86,15 @@ class GirlWhoCode:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=FranciskaMatiko&theme=radical&background=1a001a&border=E91E8C&stroke=F06292&ring=E91E8C&fire=FF6B9D&currStreakNum=FFFFFF&sideNums=F48FB1&currStreakLabel=E91E8C&sideLabels=F48FB1&dates=C2185B" alt="GitHub Streak" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=FranciskaMatiko&show_icons=true&theme=radical&bg_color=1a001a&title_color=E91E8C&icon_color=F06292&text_color=F48FB1&border_color=E91E8C&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://streak-stats.demolab.com?user=FranciskaMatiko&theme=radical&background=1a001a&border=E91E8C&stroke=F06292&ring=E91E8C&fire=FF6B9D&currStreakNum=FFFFFF&sideNums=F48FB1&currStreakLabel=E91E8C&sideLabels=F48FB1&dates=C2185B" alt="GitHub Streak" width="60%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciskaMatiko&layout=compact&theme=radical&bg_color=1a001a&title_color=E91E8C&text_color=F48FB1&border_color=E91E8C&langs_count=8" alt="Top Languages" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=FranciskaMatiko&show_icons=true&theme=radical&bg_color=0d0010&title_color=E91E8C&icon_color=F06292&text_color=F48FB1&border_color=E91E8C&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github" alt="GitHub Stats" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciskaMatiko&layout=compact&theme=radical&bg_color=0d0010&title_color=E91E8C&text_color=F48FB1&border_color=E91E8C&langs_count=8&hide_border=false" alt="Top Languages" width="40%" />
 
 </div>
 
@@ -139,8 +135,6 @@ class GirlWhoCode:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E91E8C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-F06292?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-C2185B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-F48FB1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
