@@ -1,24 +1,22 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Hey,%20I'm%20a%20Girl%20Who%20Codes%20✨&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20•%20Backend%20•%20Mobile%20•%20Data%20Science&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Hey,%20I'm%20Franciska%20%E2%9C%A8&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%E2%80%A2%20Backend%20%E2%80%A2%20Mobile%20%E2%80%A2%20Data%20Science&descAlignY=60&descSize=18" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=3000&pause=800&color=E91E8C&center=true&vCenter=true&multiline=false&width=600&lines=Building+beautiful+things+%F0%9F%8C%B8;From+pixels+to+pipelines+%F0%9F%9A%80;Data+%2B+Design+%2B+Determination+%F0%9F%92%AA;Code+is+my+superpower+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=3000&pause=800&color=E91E8C&center=true&vCenter=true&width=600&lines=Building+beautiful+things+%F0%9F%8C%B8;From+pixels+to+pipelines+%F0%9F%9A%80;Data+%2B+Design+%2B+Determination+%F0%9F%92%AA;Code+is+my+superpower+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile views + followers badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=e91e8c&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?color=f06292&label=FOLLOWERS&logo=github&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=FranciskaMatiko&color=e91e8c&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/FranciskaMatiko?color=f06292&label=FOLLOWERS&logo=github&style=for-the-badge)
 
 </div>
 
 ---
 
-<!-- About Me -->
 <img align="right" alt="Girl Coding GIF" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 ## 🌸 About Me
@@ -26,7 +24,7 @@
 ```python
 class GirlWhoCode:
     def __init__(self):
-        self.name       = "Your Name ✨"
+        self.name       = "Franciska Matiko ✨"
         self.pronouns   = "she / her"
         self.passion    = ["Frontend Magic 🎨",
                            "Backend Power 🔧",
@@ -92,27 +90,21 @@ class GirlWhoCode:
 
 <div align="center">
 
-<!-- 🌸 STREAK TRACKER — Replace YOUR_USERNAME with your GitHub username -->
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&background=1a001a&border=E91E8C&stroke=F06292&ring=E91E8C&fire=FF6B9D&currStreakNum=FFFFFF&sideNums=F48FB1&currStreakLabel=E91E8C&sideLabels=F48FB1&dates=C2185B&hide_border=false" 
-     alt="GitHub Streak" width="49%" />
+<img src="https://streak-stats.demolab.com?user=FranciskaMatiko&theme=radical&background=1a001a&border=E91E8C&stroke=F06292&ring=E91E8C&fire=FF6B9D&currStreakNum=FFFFFF&sideNums=F48FB1&currStreakLabel=E91E8C&sideLabels=F48FB1&dates=C2185B" alt="GitHub Streak" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&bg_color=1a001a&title_color=E91E8C&icon_color=F06292&text_color=F48FB1&border_color=E91E8C&hide_border=false&include_all_commits=true&count_private=true" 
-     alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=FranciskaMatiko&show_icons=true&theme=radical&bg_color=1a001a&title_color=E91E8C&icon_color=F06292&text_color=F48FB1&border_color=E91E8C&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&bg_color=1a001a&title_color=E91E8C&text_color=F48FB1&border_color=E91E8C&langs_count=8" 
-     alt="Top Languages" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciskaMatiko&layout=compact&theme=radical&bg_color=1a001a&title_color=E91E8C&text_color=F48FB1&border_color=E91E8C&langs_count=8" alt="Top Languages" width="42%" />
 
 </div>
 
 <div align="center">
 
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=1a001a&color=F48FB1&line=E91E8C&point=FF6B9D&area=true&hide_border=false&area_color=E91E8C" 
-     alt="Activity Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FranciskaMatiko&bg_color=1a001a&color=F48FB1&line=E91E8C&point=FF6B9D&area=true&area_color=E91E8C" alt="Activity Graph" width="95%" />
 
 </div>
 
@@ -122,8 +114,7 @@ class GirlWhoCode:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" 
-     alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=FranciskaMatiko&theme=radical&no-frame=false&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -149,7 +140,6 @@ class GirlWhoCode:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E91E8C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Twitter](https://img.shields.io/badge/Twitter-F06292?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Instagram](https://img.shields.io/badge/Instagram-AD1457?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
 [![Portfolio](https://img.shields.io/badge/Portfolio-C2185B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-F48FB1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
@@ -157,11 +147,10 @@ class GirlWhoCode:
 
 ---
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=fadeIn" />
 
 <div align="center">
   <i>✨ "She believed she could, so she did." ✨</i>
   <br/>
-  <sub>Made with 💗 and lots of ☕</sub>
+  <sub>Made with 💗 and lots of ☕ by Franciska Matiko</sub>
 </div>
