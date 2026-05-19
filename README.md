@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" alt="Girl Coding GIF" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" alt="Girl Coding GIF" width="280" style="margin-top:10px; border-radius:10px;" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 ## 🌸 About Me
 
