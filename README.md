@@ -102,7 +102,6 @@ class PrettyCoder:
 
 <img src="https://github-readme-stats.vercel.app/api?username=FranciskaMatiko&show_icons=true&theme=tokyonight&bg_color=030d1a&title_color=00F5FF&icon_color=00b4d8&text_color=90e0ef&border_color=00F5FF&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github" alt="GitHub Stats" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciskaMatiko&layout=compact&theme=tokyonight&bg_color=030d1a&title_color=00F5FF&text_color=90e0ef&border_color=00F5FF&langs_count=8&hide_border=false" alt="Top Languages" width="40%" />
 
 </div>
 
