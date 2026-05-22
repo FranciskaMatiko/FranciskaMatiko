@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<!-- Glassmorphism style badges -->
+<!-- Glassmorphism style badge -->
 <img src="https://img.shields.io/badge/she%2Fher-%2300F5FF?style=for-the-badge&labelColor=003d4f" />
 <img src="https://komarev.com/ghpvc/?username=FranciskaMatiko&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/FranciskaMatiko?color=0ff0fc&label=FOLLOWERS&logo=github&style=for-the-badge&labelColor=003d4f" />
